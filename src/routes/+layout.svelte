@@ -16,7 +16,7 @@
 		top: 0;
 		width: 20rem;
 		height: 50rem;
-		background-image: url('board/Group 173.png');
+		background-image: url('/board/Group 173.png');
 		background-size: cover;
 		background-repeat: no-repeat;
 		z-index: 10;
