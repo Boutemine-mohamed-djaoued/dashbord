@@ -26,7 +26,7 @@
 		top: 0;
 		width: 100%;
 		height: 100%;
-		background-image: url('board/Group 47.png');
+		background-image: url('/board/Group 47.png');
 		/* background-color: red; */
 
 		background-repeat: no-repeat;
